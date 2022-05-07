@@ -3,6 +3,9 @@
 ## memes
 [Image](https://pbs.twimg.com/media/E3MbiCDX0AAQun2?format=jpg&name=small)
 
+mask twitters
+[Image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
+[Link](https://twitter.com/elonmusk)
 
 # 【1】url
 ## better call saul
