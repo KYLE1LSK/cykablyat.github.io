@@ -1,9 +1,8 @@
-## Welcome to kyle's blog
+## Welcome to kyle's blog！
 
 
 
-# store
-## memes
+## my memes
 [Image](https://pbs.twimg.com/media/E3MbiCDX0AAQun2?format=jpg&name=small)
 
 mask twitters
@@ -11,7 +10,7 @@ mask twitters
 [mask twitters](https://twitter.com/elonmusk)
 
 # 【1】url
-## better call saul
+## resource better call saul
 ### 1
 
 
