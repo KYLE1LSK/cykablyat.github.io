@@ -4,7 +4,7 @@
 
 ## 1.my memes
 - ![Image](https://pbs.twimg.com/media/E3MbiCDX0AAQun2?format=jpg&name=small)
-- ![meme image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
+- [meme image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
 - mask twitters
 - [mask twitters](https://twitter.com/elonmusk)
 
