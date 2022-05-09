@@ -1,22 +1,23 @@
-## Welcome to kyle's blog！
+# Welcome to kyle's blog！
 
 
 
-## my memes
+## 1.my memes
 [Image](https://pbs.twimg.com/media/E3MbiCDX0AAQun2?format=jpg&name=small)
 
 mask twitters
 [meme image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
 [mask twitters](https://twitter.com/elonmusk)
 
-# 【1】url
-## resource better call saul
+
+## 2./resource better call saul
 ### 1
-## 陈睿你的🐎死了[陈睿你的🐎死了](https://www.nicovideo.jp/watch/sm34222680)
+### 陈睿你的🐎死了
+### [陈睿你的🐎死了](https://www.nicovideo.jp/watch/sm34222680)
 
-
-
-
+#
+#
+#
 You can use the [editor on GitHub](https://github.com/KYLE1LSK/kyle_cykablyat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 -----------------------------------------------------------
 
