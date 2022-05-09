@@ -4,18 +4,15 @@
 
 ## 1.my memes
 - ![Image](https://pbs.twimg.com/media/E3MbiCDX0AAQun2?format=jpg&name=small)
-
+- ![meme image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
 - mask twitters
-![meme image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
-[mask twitters](https://twitter.com/elonmusk)
+- [mask twitters](https://twitter.com/elonmusk)
 
 
 ## 2.resource better call saul
 
 
-### 1
-
-### [陈睿你的🐎死了](https://www.nicovideo.jp/watch/sm34222680)
+### 3.[陈睿你的🐎死了](https://www.nicovideo.jp/watch/sm34222680)
 
 # 
 # 
