@@ -10,16 +10,19 @@ mask twitters
 [mask twitters](https://twitter.com/elonmusk)
 
 
-## 2./resource better call saul
+## 2.resource better call saul
+
+
 ### 1
-### 陈睿你的🐎死了
+
 ### [陈睿你的🐎死了](https://www.nicovideo.jp/watch/sm34222680)
 
-#
-#
-#
-You can use the [editor on GitHub](https://github.com/KYLE1LSK/kyle_cykablyat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
------------------------------------------------------------
+# 
+# 
+# 
+ [editor on GitHub](https://github.com/KYLE1LSK/kyle_cykablyat.github.io/edit/gh-pages/index.md) 
+ 
+ ---------------------------------------------
 
 
 
