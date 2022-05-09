@@ -1,12 +1,12 @@
 # Welcome to kyle's blog！
-
+![](651486.png)
 
 
 ## 1.my memes
-[Image](https://pbs.twimg.com/media/E3MbiCDX0AAQun2?format=jpg&name=small)
+- ![Image](https://pbs.twimg.com/media/E3MbiCDX0AAQun2?format=jpg&name=small)
 
-mask twitters
-[meme image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
+- mask twitters
+![meme image](https://twitter.com/elonmusk/status/1519735033950470144/photo/1)
 [mask twitters](https://twitter.com/elonmusk)
 
 
